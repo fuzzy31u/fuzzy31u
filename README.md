@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [QUREO, Inc.](https://qureo.jp/)
+- 🔭 I’m [Yu Kamiya](https://yukamiya.me/)
 
 <!--
 **fuzzy31u/fuzzy31u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
